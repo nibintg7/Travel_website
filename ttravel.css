@@ -1,0 +1,78 @@
+
+.home-info {
+    height: 100vh;
+    text-align: center;
+    color: peachpuff;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Lumanosimo', cursive;
+    padding: 100px 0;
+    background-image: url(https://png.pngtree.com/back_origin_pic/03/88/06/20451a964fa12319a324f2e99aac9632.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.card{
+    margin: 10px;
+    background-color: oldlace;
+}
+.con:hover{
+    background-image: linear-gradient(to bottom right, rgb(221, 206, 206),blue);
+}
+.about{
+    width: 400px;
+    height: 100px;
+    padding: 10px;
+    color: aliceblue;
+}
+.para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: royalblue;
+    font-size:xx-large;
+
+}
+.h2{
+    padding-top: 10px;
+    text-align: center;
+    color: silver;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card-body1{
+    background-color: yellow;
+}
+.card1{
+    background-color: rgb(202, 202, 177);
+    margin: 30PX;
+    padding: 20px;
+}
+.card-title1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+.footer{
+    padding: 20px;
+    background-color: rgb(138, 138, 138);
+}
+.contact{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+.con{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.a1, .b1, .c1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
